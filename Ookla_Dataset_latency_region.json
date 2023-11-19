@@ -1,0 +1,118 @@
+[
+  {
+    "CLIENT_REGION_NAME": "Antioquia",
+    "LATENCY": 112.02
+  },
+  {
+    "CLIENT_REGION_NAME": "Arauca",
+    "LATENCY": 124.72
+  },
+  {
+    "CLIENT_REGION_NAME": "Atlantico",
+    "LATENCY": 151.65
+  },
+  {
+    "CLIENT_REGION_NAME": "Bogota",
+    "LATENCY": 87.17
+  },
+  {
+    "CLIENT_REGION_NAME": "Bolivar",
+    "LATENCY": 134.17
+  },
+  {
+    "CLIENT_REGION_NAME": "Boyaca",
+    "LATENCY": 141.21
+  },
+  {
+    "CLIENT_REGION_NAME": "Caldas",
+    "LATENCY": 150.43
+  },
+  {
+    "CLIENT_REGION_NAME": "Caqueta",
+    "LATENCY": 176.01
+  },
+  {
+    "CLIENT_REGION_NAME": "Casanare",
+    "LATENCY": 138.28
+  },
+  {
+    "CLIENT_REGION_NAME": "Cauca Dept",
+    "LATENCY": 105.29
+  },
+  {
+    "CLIENT_REGION_NAME": "Cesar",
+    "LATENCY": 147.18
+  },
+  {
+    "CLIENT_REGION_NAME": "Cordoba",
+    "LATENCY": 148.9
+  },
+  {
+    "CLIENT_REGION_NAME": "Cundinamarca",
+    "LATENCY": 95.65
+  },
+  {
+    "CLIENT_REGION_NAME": "Guainia",
+    "LATENCY": 405
+  },
+  {
+    "CLIENT_REGION_NAME": "Guaviare",
+    "LATENCY": 268.11
+  },
+  {
+    "CLIENT_REGION_NAME": "Huila",
+    "LATENCY": 157.94
+  },
+  {
+    "CLIENT_REGION_NAME": "La Guajira",
+    "LATENCY": 198.55
+  },
+  {
+    "CLIENT_REGION_NAME": "Magdalena",
+    "LATENCY": 163.82
+  },
+  {
+    "CLIENT_REGION_NAME": "Meta",
+    "LATENCY": 165.25
+  },
+  {
+    "CLIENT_REGION_NAME": "Narino",
+    "LATENCY": 207.83
+  },
+  {
+    "CLIENT_REGION_NAME": "North Santander",
+    "LATENCY": 103.42
+  },
+  {
+    "CLIENT_REGION_NAME": "Putumayo",
+    "LATENCY": 244.24
+  },
+  {
+    "CLIENT_REGION_NAME": "Quindio",
+    "LATENCY": 129.19
+  },
+  {
+    "CLIENT_REGION_NAME": "Risaralda",
+    "LATENCY": 158.3
+  },
+  {
+    "CLIENT_REGION_NAME": "San Andres and Providencia",
+    "LATENCY": 199.14
+  },
+  {
+    "CLIENT_REGION_NAME": "Santander Dept",
+    "LATENCY": 124.37
+  },
+  {
+    "CLIENT_REGION_NAME": "Sucre",
+    "LATENCY": 137.74
+  },
+  {
+    "CLIENT_REGION_NAME": "Tolima",
+    "LATENCY": 116.37
+  },
+  {
+    "CLIENT_REGION_NAME": "Valle del Cauca",
+    "LATENCY": 146.5
+  }
+]
