@@ -1,0 +1,219 @@
+﻿CLIENT_REGION_NAME;CLIENT_CITY;AVG_LATENCY
+Antioquia;Aguas Frias;30,14285714
+Antioquia;Alta Vista;95,03571429
+Antioquia;Altavista;90,66666667
+Antioquia;Antioquia;154,5333333
+Antioquia;Apartado;172,7473684
+Antioquia;Barbosa;173,8095238
+Antioquia;Barrios de Jesus;82,625
+Antioquia;Bello;111,3438114
+Antioquia;Caldas;161,3409091
+Antioquia;Carmen de Viboral;33
+Antioquia;Caucasia;178,7118644
+Antioquia;Cisneros;168,2340426
+Antioquia;El Carmen de Viboral;21,625
+Antioquia;El Corazon;72,26666667
+Antioquia;El Poblado;93,125
+Antioquia;El Retiro;28,25
+Antioquia;Envigado;91,19283971
+Antioquia;Guarne;96,28571429
+Antioquia;Itaguei;112,2325581
+Antioquia;La Ceja;145,2666667
+Antioquia;La Estrella;124,5045455
+Antioquia;Los Andes;126,0033898
+Antioquia;Marinilla;173,4262295
+Antioquia;MedellAn;117,2410487
+Antioquia;Medellin;105,9972104
+Antioquia;Municipio de Copacabana;127,3817204
+Antioquia;Narino;227,5
+Antioquia;Puerto Berrio;41,52631579
+Antioquia;Rionegro;99,52185792
+Antioquia;Rosales;93,36363636
+Antioquia;Sabaneta;93,37957611
+Antioquia;San Pedro;76,4516129
+Antioquia;Turbo;111,5714286
+Arauca;Arauca;124,7231638
+Atlantico;Barranquilla;134,0162044
+Atlantico;Galapa;158,1428571
+Atlantico;Malambo;210,6201681
+Atlantico;Puerto Colombia;125,9677419
+Atlantico;Soledad;233,8249856
+Bogota;Barrios Unidos;111,25
+Bogota;Bogota;87,1480631
+Bogota;Bosa;297,3529412
+Bogota;Boyaca;47,6
+Bogota;Brasilia;78
+Bogota;Bravo Paez;59,33333333
+Bogota;Casanare;18
+Bogota;Castilla;49,5
+Bogota;Cedritos;115,6
+Bogota;Chico;55,53846154
+Bogota;Ciudad Salitre;40,33333333
+Bogota;El Codito;35
+Bogota;Engativa;72,23448276
+Bogota;Fontibon;172,125
+Bogota;Gaitan;31,5
+Bogota;Kennedy;134,4285714
+Bogota;Los Alamos;65,33333333
+Bogota;Puente Aranda;89,54545455
+Bogota;Suba;83,67857143
+Bogota;Teusaquillo;128,3
+Bogota;Tunjuelito;191,5
+Bogota;Usaquen;167
+Bolivar;Bermudez;121,5882353
+Bolivar;Cartagena;126,2004104
+Bolivar;La Ladera;192,2790698
+Bolivar;Lima;207,6190476
+Bolivar;Magangue;234,4362416
+Bolivar;Payande;246
+Bolivar;Tarapaca;107,2258065
+Bolivar;Turbaco;168,3262411
+Boyaca;Alcaparral;247,25
+Boyaca;Boyaca;167,4285714
+Boyaca;Duitama;180,9197531
+Boyaca;Moniquira;79,57142857
+Boyaca;Sachica;200,73125
+Boyaca;Sogamoso;146,0487805
+Boyaca;Tunja;114,9701705
+Caldas;Chinchina;138,75
+Caldas;La Dorada;144,2814815
+Caldas;Manizales;150,7234469
+Caldas;Neira;134,5
+Caldas;Risaralda;150,8333333
+Caldas;Salamina;177,4137931
+Caldas;Villamaria;150,2597403
+Caqueta;Florencia;176,009772
+Casanare;Cauca;170,8
+Casanare;Tauramena;201,7142857
+Casanare;Yopal;124,8221477
+Cauca Dept;Puerto Tejada;180
+Cauca Dept;Santander de Quilichao;104,9315287
+Cesar;Aguachica;78,04545455
+Cesar;La Jagua de Ibirico;144,5151515
+Cesar;Valledupar;150,0743671
+Cordoba;Cerete;153,8181818
+Cordoba;Cuenca;285,7272727
+Cordoba;MonterAa;148,5136876
+Cordoba;Monteria;141,4232082
+Cordoba;Popayan;243,75
+Cundinamarca;Cajica;81,12760417
+Cundinamarca;Chia;63,45660102
+Cundinamarca;Chipaque;193,1463415
+Cundinamarca;Cogua;54,05555556
+Cundinamarca;Colombia;48
+Cundinamarca;Cota;55,62385321
+Cundinamarca;Dosquebradas;82,3908046
+Cundinamarca;El Rosal;128,0571429
+Cundinamarca;Facatativa;79,07759883
+Cundinamarca;Funza;58,02419355
+Cundinamarca;Fusagasuga;125,510274
+Cundinamarca;Gachancipa;125,9230769
+Cundinamarca;Girardot City;105,7304786
+Cundinamarca;La Calera;18,25
+Cundinamarca;Madrid;98,76923077
+Cundinamarca;Mosquera;67,28773585
+Cundinamarca;Pacho;131,2272727
+Cundinamarca;Sesquile;137,2181818
+Cundinamarca;Sibate;85,6
+Cundinamarca;Silvania;153,9302326
+Cundinamarca;Soacha;142,4823651
+Cundinamarca;Sopo;134,4680851
+Cundinamarca;Tabio;35,85714286
+Cundinamarca;Tenjo;49,59259259
+Cundinamarca;Tocancipa;170,5507246
+Cundinamarca;Zipaquira;121,3710692
+Guainia;Manaciare;405
+Guaviare;San Jose del Guaviare;268,1060606
+Huila;Colombia;419
+Huila;Garzon;159,2321429
+Huila;Neiva;154,5196375
+Huila;Pitalito;242,2592593
+La Guajira;Maicao;274,6971429
+La Guajira;Riohacha;182,5510204
+Magdalena;Bonda;145
+Magdalena;Cienaga;104,3473054
+Magdalena;Cundinamarca;306
+Magdalena;Fundacion;203,5480769
+Magdalena;Miami;179,2413793
+Magdalena;Santa Marta;166,2747451
+Meta;Acacias;168,65625
+Meta;Granada;228,3565217
+Meta;La Argentina;124,5
+Meta;Restrepo;32,95
+Meta;San Carlos de Guaroa;78,8
+Meta;San Martin;257,75
+Meta;Villavicencio;161,5526192
+Narino;Anganoy;175,75
+Narino;Buesaquillo;285,8333333
+Narino;Ipiales;116,375
+Narino;Jamondino;105,1111111
+Narino;Pasto;222,2222222
+Narino;Providencia;187,25
+Narino;Tangua;227,75
+Narino;Tumaco;125,3333333
+Narino;Yacuanquer;190,6
+North Santander;Cucuta;98,9521197
+North Santander;Los Patios;133,043956
+North Santander;Ocana;67
+North Santander;Pamplona;223,254902
+North Santander;Villa del Rosario;106,3378378
+Putumayo;El Cortijo;236,5
+Putumayo;Mocoa;245,2272727
+Putumayo;Sibundoy;269
+Quindio;Armenia;128,2474674
+Quindio;Calarca;137,7222222
+Quindio;Circasia;110,1111111
+Quindio;Montenegro;127,1818182
+Quindio;Quimbaya;249
+Risaralda;Dos Quebradas;121,7082294
+Risaralda;Erazo;216,6285714
+Risaralda;Pereira;169,2949183
+Risaralda;Santa Rosa de Cabal;195,3571429
+San Andres and Providencia;San Andres;199,1434635
+Santander Dept;Barbosa;145
+Santander Dept;Barrancabermeja;150,9639017
+Santander Dept;Bucaramanga;118,6840909
+Santander Dept;Casiano;79,48148148
+Santander Dept;Cerrito;219,2333333
+Santander Dept;Floridablanca;89,77466667
+Santander Dept;Giron;171,7129187
+Santander Dept;Piedecuesta;140,2971014
+Santander Dept;Quindio;166,4285714
+Santander Dept;San Gil;240,8684211
+Santander Dept;Socorro;200,0344828
+Sucre;Chapinero;285,1428571
+Sucre;Sincelejo;136,7097097
+Tolima;Espinal;87,04255319
+Tolima;Flandes;149,6307692
+Tolima;Honda;23
+Tolima;Ibague;103,2115556
+Tolima;Melgar;151,4289694
+Tolima;Ortega;197,525
+Tolima;Planadas;195,5217391
+Valle del Cauca;Aguaclara;132,7142857
+Valle del Cauca;Buenaventura;143,9541985
+Valle del Cauca;Buga;95,7826087
+Valle del Cauca;Candelaria;56,33333333
+Valle del Cauca;Cartago;118,1111111
+Valle del Cauca;Cascajal;126,8928571
+Valle del Cauca;Coronado;125,7179487
+Valle del Cauca;Dapa;121,1
+Valle del Cauca;Florida;194
+Valle del Cauca;Ginebra;680
+Valle del Cauca;Guacari;259
+Valle del Cauca;Guayabal;38
+Valle del Cauca;Jamundi;160,8064516
+Valle del Cauca;Juanchito;412,8017241
+Valle del Cauca;La Buitrera;74,88
+Valle del Cauca;La Dolores;70,97058824
+Valle del Cauca;La Union;78
+Valle del Cauca;La Victoria;236
+Valle del Cauca;Los Andes;59
+Valle del Cauca;Montebello;86,52941176
+Valle del Cauca;Palmira;161,8769231
+Valle del Cauca;Santiago de Cali;141,4230915
+Valle del Cauca;Tulcan;85
+Valle del Cauca;Tulua;95,91089109
+Valle del Cauca;Yotoco;98,2
+Valle del Cauca;Yumbo;215,1107266
+Valle del Cauca;Zarzal;166,8823529
