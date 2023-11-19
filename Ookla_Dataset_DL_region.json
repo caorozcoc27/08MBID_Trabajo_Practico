@@ -1,0 +1,118 @@
+[
+  {
+    "CLIENT_REGION_NAME": "Antioquia",
+    "DOWNLOAD_KBPS": 18380.77
+  },
+  {
+    "CLIENT_REGION_NAME": "Arauca",
+    "DOWNLOAD_KBPS": 18825.88
+  },
+  {
+    "CLIENT_REGION_NAME": "Atlantico",
+    "DOWNLOAD_KBPS": 16757.11
+  },
+  {
+    "CLIENT_REGION_NAME": "Bogota",
+    "DOWNLOAD_KBPS": 17112.67
+  },
+  {
+    "CLIENT_REGION_NAME": "Bolivar",
+    "DOWNLOAD_KBPS": 18950.56
+  },
+  {
+    "CLIENT_REGION_NAME": "Boyaca",
+    "DOWNLOAD_KBPS": 19846.68
+  },
+  {
+    "CLIENT_REGION_NAME": "Caldas",
+    "DOWNLOAD_KBPS": 18821.14
+  },
+  {
+    "CLIENT_REGION_NAME": "Caqueta",
+    "DOWNLOAD_KBPS": 16193.47
+  },
+  {
+    "CLIENT_REGION_NAME": "Casanare",
+    "DOWNLOAD_KBPS": 18838.57
+  },
+  {
+    "CLIENT_REGION_NAME": "Cauca Dept",
+    "DOWNLOAD_KBPS": 22751.3
+  },
+  {
+    "CLIENT_REGION_NAME": "Cesar",
+    "DOWNLOAD_KBPS": 12905.94
+  },
+  {
+    "CLIENT_REGION_NAME": "Cordoba",
+    "DOWNLOAD_KBPS": 11582.27
+  },
+  {
+    "CLIENT_REGION_NAME": "Cundinamarca",
+    "DOWNLOAD_KBPS": 17903.37
+  },
+  {
+    "CLIENT_REGION_NAME": "Guainia",
+    "DOWNLOAD_KBPS": 27966.5
+  },
+  {
+    "CLIENT_REGION_NAME": "Guaviare",
+    "DOWNLOAD_KBPS": 16103.74
+  },
+  {
+    "CLIENT_REGION_NAME": "Huila",
+    "DOWNLOAD_KBPS": 17758.09
+  },
+  {
+    "CLIENT_REGION_NAME": "La Guajira",
+    "DOWNLOAD_KBPS": 10704.7
+  },
+  {
+    "CLIENT_REGION_NAME": "Magdalena",
+    "DOWNLOAD_KBPS": 18670.62
+  },
+  {
+    "CLIENT_REGION_NAME": "Meta",
+    "DOWNLOAD_KBPS": 17526.74
+  },
+  {
+    "CLIENT_REGION_NAME": "Narino",
+    "DOWNLOAD_KBPS": 16306.1
+  },
+  {
+    "CLIENT_REGION_NAME": "North Santander",
+    "DOWNLOAD_KBPS": 23162.24
+  },
+  {
+    "CLIENT_REGION_NAME": "Putumayo",
+    "DOWNLOAD_KBPS": 8544.86
+  },
+  {
+    "CLIENT_REGION_NAME": "Quindio",
+    "DOWNLOAD_KBPS": 15624.72
+  },
+  {
+    "CLIENT_REGION_NAME": "Risaralda",
+    "DOWNLOAD_KBPS": 13473.89
+  },
+  {
+    "CLIENT_REGION_NAME": "San Andres and Providencia",
+    "DOWNLOAD_KBPS": 5599.04
+  },
+  {
+    "CLIENT_REGION_NAME": "Santander Dept",
+    "DOWNLOAD_KBPS": 20866.09
+  },
+  {
+    "CLIENT_REGION_NAME": "Sucre",
+    "DOWNLOAD_KBPS": 10102.24
+  },
+  {
+    "CLIENT_REGION_NAME": "Tolima",
+    "DOWNLOAD_KBPS": 18700.23
+  },
+  {
+    "CLIENT_REGION_NAME": "Valle del Cauca",
+    "DOWNLOAD_KBPS": 17669.1
+  }
+]
